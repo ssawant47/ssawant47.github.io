@@ -7,6 +7,9 @@ The First chapter is the foundation; it explains all the basic concepts and synt
 
 
 https://www.kaggle.com/datasets/charanchandrasekaran/top-6-economies-in-the-world-by-gdp
+
+
+
 The dataset contains data on the world's top 6 Economies by GDP, which include the USA, China, Japan, Germany, United Kingdom, and India, from 1990 to 2020, i.e., 30 years
 Potential applications for the data set are as follows:
 •	Last five years GDP growth.
