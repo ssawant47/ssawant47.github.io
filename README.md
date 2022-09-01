@@ -1,1 +1,3 @@
 # ssawant47.github.io
+Advance R is, first and foremost, designed for R users who want to improve their coding skills and understanding of the R language. It should also be helpful for programmers new to R from other languages, as it explains some of R’s eccentricity. 
+The First chapter is the foundation; it explains all the basic concepts and syntax like Data structures, Subsetting, Vocabulary, Style, Functions, OO field guide, Environments, Exceptions, and debugging. Later, it explains Metaprogramming and Performant code, which includes Non-standard evaluation, Expressions, Domain-specific languages, Performance, Rcpp, and R’s C interface
